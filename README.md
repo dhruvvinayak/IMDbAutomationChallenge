@@ -1,7 +1,7 @@
 # IMDb Web Driver Challenge
 
 **Selenium Web Driver**:<br />
-I have used selenium v3.4.0 to implement automation coding challenge.
+I have used selenium v3.4.0 with Maven and JUnit to implement automation coding challenge.
 
 **Supported Browers**:   
 a. Chrome  
@@ -44,3 +44,4 @@ Hence, screenshot is always captured ONLY in case of testcase failure.
 
 Path of screenshots: /IMBdChallenge/target/screenshot
   
+Please refer to screenshot - framework.png for more details.
